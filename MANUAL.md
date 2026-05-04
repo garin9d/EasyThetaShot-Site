@@ -60,7 +60,7 @@
 Confirmed working on RICOH THETA X.
 The following models are expected to work:
 
-- RICOH THETA SC2
+- RICOH THETA SC2 ✓ (confirmed)
 - RICOH THETA V
 - RICOH THETA Z1
 - RICOH THETA X ✓ (confirmed)
@@ -153,7 +153,7 @@ garin9d+easythetashot@gmail.com
 RICOH THETA Xにて動作確認済みです。
 以下の機種での動作を想定しています。
 
-- RICOH THETA SC2
+- RICOH THETA SC2 ✓（動作確認済み）
 - RICOH THETA V
 - RICOH THETA Z1
 - RICOH THETA X ✓（動作確認済み）
