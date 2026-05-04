@@ -76,6 +76,7 @@ Compatibility with THETA A1 is unknown.
 - Purchase the Pro plan to unlock unlimited shots
 - Tap **Upgrade** when prompted, or go to Settings → Upgrade to Pro
 - To restore a previous purchase, tap **Restore Purchase** in Settings
+- Please verify compatibility with your THETA model before purchasing.
 
 ---
 
