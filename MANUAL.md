@@ -10,19 +10,23 @@
 
 ---
 
-### Getting Started
+### Quick Start
 
 #### 1. Prepare your RICOH THETA
-- Power on your RICOH THETA camera
-- The THETA will broadcast its own Wi-Fi access point
+- Power on your RICOH THETA
+- Enable Wi-Fi on your THETA and set it to AP mode (Direct mode)
 
-#### 2. Connect via Wi-Fi
-- Go to iPhone Settings → Wi-Fi
-- Connect to your THETA's access point (e.g. YR12345678)
+#### 2. Launch EasyThetaShot and configure the THETA serial
+- Open the app and tap Settings (gear icon, bottom right)
+- Enter your THETA serial ID in the THETA Serial ID field (e.g. YR12345678)
 
-#### 3. Launch EasyThetaShot
-- Open the app and tap **THETA Connect / Shoot**
-- The app will connect to your THETA automatically
+#### 3. Shoot
+- Tap the camera icon (bottom center) to open the camera screen
+- Tap the THETA Connect button
+- Once connected, tap the Shoot button to capture a photo
+- Photos are saved inside the EasyThetaShot app and automatically added to your Photos app (camera roll)
+
+> You may be prompted to allow Wi-Fi access and Photos app permission — please tap Allow.
 
 ---
 
@@ -47,6 +51,21 @@
 - **Lock**: Enable to prevent accidental changes to settings
 - **HDR**: Set HDR mode for your THETA (HDR / OFF / No Change)
   - Note: HDR settings may not be supported on older THETA models
+
+---
+
+### Supported THETA Models
+
+Confirmed working on RICOH THETA X.
+The following models are expected to work:
+
+- RICOH THETA SC2
+- RICOH THETA V
+- RICOH THETA Z1
+- RICOH THETA X ✓ (confirmed)
+
+Older models (THETA S, SC, m15, and the original THETA) are not supported.
+Compatibility with THETA A1 is unknown.
 
 ---
 
@@ -85,43 +104,60 @@ garin9d+easythetashot@gmail.com
 
 ---
 
-### はじめに
+### クイックスタート
 
 #### 1. RICOH THETAを準備する
 - RICOH THETAの電源を入れる
-- THETAが独自のWi-Fiアクセスポイントを発信します
+- THETAのWi-FiをONにし、APモード（ダイレクトモード）に設定する
 
-#### 2. Wi-Fiで接続する
-- iPhoneの設定 → Wi-Fi
-- THETAのアクセスポイントに接続する（例：YR12345678）
+#### 2. EasyThetaShotを起動し、THETAシリアルを設定する
+- アプリを開き、設定（右下の歯車アイコン）をタップする
+- THETA シリアルID欄にお持ちのTHETAのシリアルを入力する（例：YR12345678）
 
-#### 3. EasyThetaShotを起動する
-- アプリを開き、**THETA接続 / 撮影**をタップ
-- 自動的にTHETAに接続されます
+#### 3. 撮影する
+- カメラアイコン（下中央）をタップしてカメラ画面を開く
+- THETA接続ボタンをタップする
+- 接続完了後、撮影ボタンをタップすると撮影できる
+- 写真はEasyThetaShot内に保存され、写真アプリ（カメラロール）にも自動的に追加される
 
+> Wi-Fiアクセスおよび写真アプリへのアクセス許可を求められた場合は「許可」を選んでください。
+> 
 ---
 
-### 撮影
+### 撮影画面
 
-- **THETA接続 / 撮影**をタップすると全天球写真を撮影します
+- **THETA接続 / 撮影**をタップするとTHETAに接続し、全天球写真を撮影します
 - 写真はiPhoneに直接保存されます
 - 写真アプリ（カメラロール）にも自動的に追加されます
 
 ---
 
-### 写真一覧
+### 写真一覧画面
 
 - 左下の写真アイコンをタップして撮影した写真を確認できます
-- 写真は端末内にローカル保存されます
 
 ---
 
-### 設定
+### 設定画面
 
 - 右下の歯車アイコンをタップして設定画面を開きます
 - **ロック**: ONにすると設定の誤操作を防ぎます
 - **HDR**: THETAのHDRモードを設定します（HDR / OFF / 変更しない）
   - 注意：古い機種ではHDR設定に対応していない場合があります
+
+---
+
+### 対応THETAモデル
+
+RICOH THETA Xにて動作確認済みです。
+以下の機種での動作を想定しています。
+
+- RICOH THETA SC2
+- RICOH THETA V
+- RICOH THETA Z1
+- RICOH THETA X ✓（動作確認済み）
+
+古い機種（THETA S・SC・m15・初代THETA）には対応していません。A1は不明。
 
 ---
 
