@@ -10,24 +10,23 @@
 ### EasyThetaShot Manual
 
 ---
-
 ### Quick Start
+
+> You may be prompted to allow Wi-Fi access and Photos app access when launching the app for the first time — please tap Allow for both.
 
 #### 1. Prepare your RICOH THETA
 - Power on your RICOH THETA
 - Enable Wi-Fi on your THETA and set it to AP mode (Direct mode)
 
-#### 2. Launch EasyThetaShot and configure the THETA serial
+#### 2. Launch EasyThetaShot and configure the THETA Serial No.
 - Open the app and tap Settings (gear icon, bottom right)
-- Enter your THETA serial ID in the THETA Serial ID field (e.g. YR12345678)
+- Enter your THETA Serial No. in the THETA Serial No. field (e.g. YR12345678 — starts with Y)
 
 #### 3. Shoot
 - Tap the camera icon (bottom center) to open the camera screen
 - Tap the THETA Connect button
 - Once connected, tap the Shoot button to capture a photo
-- Photos are saved inside the EasyThetaShot app and automatically added to your Photos app (camera roll)
-
-> You may be prompted to allow Wi-Fi access and Photos app permission — please tap Allow.
+- Photos are saved inside EasyThetaShot and automatically added to your Photos app (camera roll)
 
 ---
 
@@ -108,13 +107,15 @@ garin9d+easythetashot@gmail.com
 
 ### クイックスタート
 
+> アプリ初回起動時に、Wi-Fiアクセスおよび写真アプリへのアクセス許可を求めます。どちらも「許可」を選んでください。
+
 #### 1. RICOH THETAを準備する
 - RICOH THETAの電源を入れる
 - THETAのWi-FiをONにし、APモード（ダイレクトモード）に設定する
 
-#### 2. ラクシータを起動し、THETAシリアルを設定する
+#### 2. ラクシータを起動し、THETAシリアルNoを設定する
 - アプリを開き、設定（右下の歯車アイコン）をタップする
-- THETA シリアルID欄にお持ちのTHETAのシリアルを入力する（例：YR12345678）
+- THETAシリアルNo欄にお持ちのTHETAのシリアルNoを入力する（例：YR12345678 ※Yから始まる番号）
 
 #### 3. 撮影する
 - カメラアイコン（下中央）をタップしてカメラ画面を開く
@@ -122,8 +123,6 @@ garin9d+easythetashot@gmail.com
 - 接続完了後、撮影ボタンをタップすると撮影できる
 - 写真はラクシータ内に保存され、写真アプリ（カメラロール）にも自動的に追加される
 
-> Wi-Fiアクセスおよび写真アプリへのアクセス許可を求められた場合は「許可」を選んでください。
-> 
 ---
 
 ### 撮影画面
